@@ -12,4 +12,5 @@ A repository for Python assignments under the supervision of ***[Eiliya Zanganeh
 - [x] Week 2
 - [x] Week 3
 - [x] Week 4
-- [ ] Week 5
+- [x] Week 5
+- [ ] Week 6
